@@ -12,7 +12,7 @@ namespace TD1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-            int a = 0; //Commentaire
+            int a = 0; //c'est a
             Console.ReadLine();
         }
     }
